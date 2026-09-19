@@ -1,5 +1,3 @@
-cd /home/ubuntu/Employee-Management-System
-cat > Jenkinsfile << 'EOF'
 pipeline {
   agent any
 
@@ -62,4 +60,3 @@ pipeline {
     }
   }
 }
-EOF
